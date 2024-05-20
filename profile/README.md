@@ -1,6 +1,6 @@
 [![web+ai](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/web+ai.jpg)](https://yav.ai/)
 [![data-security](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/data-security.jpg)](https://yav.ai/services/)
-[![governance-ethics](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/governance-ethics.jpg)](https://yav.ai/consulting/)
+[![governance-ethics](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/governance-ethics.jpg)](https://yav.ai/services/consulting/)
 [![experiments](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/experiments.jpg)](https://yav.ai/experiments/)
 [![6-steps](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/6-steps.jpg)](https://yav.ai/)
 [![get-started](https://raw.githubusercontent.com/YAV-AI/.github/main/uploads/get-started.jpg)](https://yav.ai/contact/)
